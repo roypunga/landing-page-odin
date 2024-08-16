@@ -93,6 +93,7 @@ body {
     display: flex;
     flex-direction: column;
     flex-basis: 450px;
+    gap: 8px;
 }
 .content1 .image {
     background-color: gray;
